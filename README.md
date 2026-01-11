@@ -1,8 +1,8 @@
-# REST-API-example
+# ruby-rest-api-example
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-This is a bare-bones example of a Sinatra application providing a REST
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ## 🚀 Tech Stack
 
@@ -16,8 +16,8 @@ This is a bare-bones example of a Sinatra application providing a REST
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/REST-API-example.git
-cd REST-API-example
+git clone https://github.com/amitdubeyup/ruby-rest-api-example.git
+cd ruby-rest-api-example
 
 # Install dependencies
 bundle install
@@ -42,7 +42,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-REST-API-example/
+ruby-rest-api-example/
 ├── .env.example
 ├── README.md
 ```

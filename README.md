@@ -1,62 +1,25 @@
-# ruby-rest-api-example
+# Ruby Rest Api Example
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-
-## 🚀 Tech Stack
-
+## 📝 Description
 - Ruby
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Ruby
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/ruby-rest-api-example.git
-cd ruby-rest-api-example
-
-# Install dependencies
-bundle install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Add usage instructions here
-```
-
-## 📁 Project Structure
-
-```
-ruby-rest-api-example/
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/ruby-rest-api-example.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd ruby-rest-api-example
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
